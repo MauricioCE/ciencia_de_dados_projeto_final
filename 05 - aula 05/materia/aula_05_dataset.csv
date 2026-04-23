@@ -1,0 +1,21 @@
+ID_SKU,Nome_Item,Quantidade,Localizacao,Ativo
+SKU01,Parafuso A1,1000,Setor A,Sim
+SKU02,Prego B2,500,Setor B,1
+SKU03,Porca C3,2000,Setor A,True
+SKU04,Arruela D4,1500,Setor C,Não
+SKU05,Chave Fenda,50,Setor D,0
+SKU06,Alicate,30,Setor D,False
+SKU07,Martelo,20,Setor D,Sim
+SKU08,Serrote,15,Setor E,1
+SKU09,Trena,40,Setor E,True
+SKU10,Nível,10,Setor E,Não
+SKU11,Furadeira,5,Setor F,0
+SKU12,Broca 8mm,100,Setor F,False
+SKU13,Bucha 8mm,500,Setor F,Sim
+SKU14,Lixa Madeira,200,Setor G,1
+SKU15,Verniz 1L,12,Setor G,True
+SKU16,Pincel,25,Setor G,Não
+SKU17,Escada,3,Setor H,0
+SKU18,Lanterna,8,Setor H,False
+SKU19,Pilha AA,200,Setor H,Sim
+SKU20,Fita Isolante,60,Setor I,1

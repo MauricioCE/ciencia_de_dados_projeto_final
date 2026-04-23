@@ -1,0 +1,21 @@
+ID_Imovel,Endereco,Tipo,Quartos,Preco
+1,"Rua das Flores 123 - São Paulo",Casa,3,550000
+2,"Av Paulista 1500 Ap 42 - São Paulo",Apto,2,850000
+3,"Rua Bahia 45 - Santos",Casa,4,720000
+4,"Rua Chile 900 - Curitiba",Apto,1,320000
+5,"Av Brasil 10 - Rio de Janeiro",Casa,2,480000
+6,"Rua Lima 33 - Belo Horizonte",Casa,3,600000
+7,"Rua Sete 202 - Porto Alegre",Apto,2,410000
+8,"Av Central 50 - Brasília",Apto,3,950000
+9,"Rua Verde 88 - Florianópolis",Casa,2,530000
+10,"Rua Azul 12 - Vitória",Apto,1,290000
+11,"Av Sol 77 - Natal",Casa,3,450000
+12,"Rua Mar 5 - Fortaleza",Casa,4,880000
+13,"Av Paz 101 - Recife",Apto,2,370000
+14,"Rua Rio 22 - Manaus",Casa,3,310000
+15,"Av Ouro 333 - Goiânia",Apto,3,620000
+16,"Rua Prata 9 - Cuiabá",Casa,2,280000
+17,"Rua Norte 60 - Belém",Apto,1,240000
+18,"Av Sul 800 - Salvador",Casa,4,790000
+19,"Rua Leste 4 - Maceió",Apto,2,330000
+20,"Av Oeste 120 - Campo Grande",Casa,3,420000

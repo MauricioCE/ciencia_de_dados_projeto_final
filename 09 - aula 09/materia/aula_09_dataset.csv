@@ -1,0 +1,21 @@
+ID_Cliente,Nome,Cidade,Estado,Fidelidade
+1,Joao Silva,Sao Paulo,SP,Ouro
+2,Maria Souza,SÃO PAULO,sp,Prata
+3,Pedro Lima,Rio Janeiro,RJ,Bronze
+4,Ana Paula,rio de janeiro,rj,Ouro
+5,Lucas Dias,B. Horizonte,MG,Prata
+6,Carla Melo,Belo Horizonte,Minas Gerais,Ouro
+7,Beto Cruz,Curitiba,PR,Bronze
+8,Julia Lins,curitiba,parana,Prata
+9,Tiago Abrav,S. Paulo,S.P.,Ouro
+10,Fernanda M.,Sampa,SP,Bronze
+11,Roberto C.,Rio,RJ,Ouro
+12,Sonia A.,Porto Alegre,RS,Prata
+13,Marcos V.,P. Alegre,R.S.,Bronze
+14,Daniel G.,Salvador,BA,Ouro
+15,Paula R.,salvador,bahia,Prata
+16,Vitor K.,Fortaleza,CE,Bronze
+17,Bruna L.,fortal,ceara,Ouro
+18,Igor F.,Recife,PE,Prata
+19,Lana D.,recife,pernambuco,Bronze
+20,Raul S.,Brasilia,DF,Ouro

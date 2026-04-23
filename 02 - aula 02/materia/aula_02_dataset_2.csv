@@ -1,0 +1,10 @@
+Valores         ,       Convertidos
+teste           ,       teste
+"""teste"""     ,       "teste"
+"'teste'"       ,       'teste'
+null            ,       null
+"""null"""      ,       "null"
+"'null'"        ,       'null'
+nan             ,       nan
+"""nan"""       ,       "nan"
+"'nan'"         ,       'nan'

@@ -1,0 +1,21 @@
+ID_Evento,Nome_Evento,Data_Realizacao,Local,Inscritos
+1,Simpósio de IA,12/10/2023,Auditório A,150
+2,Workshop Python,2023-11-15,Sala 201,45
+3,Congresso Bio,10-25-2023,Centro Conv,500
+4,Palestra UI/UX,05/12/2023,Online,1200
+5,Fórum Tech,2024-01-20,Auditório B,300
+6,Hackathon,02-14-2024,Laboratório,80
+7,Semana Acadêmica,15/03/2024,Campus I,2000
+8,Expo Saúde,2024-04-10,Pavilhão,1500
+9,Meetup Data,05-22-2024,Coworking,60
+10,Cursos Verão,10/01/2024,Online,5000
+11,Webinar Cloud,2023-09-30,Online,450
+12,Talk Agile,08-15-2023,Sala 10,35
+13,Deep Learning,20/12/2023,Auditório C,90
+14,DevOps Days,2024-06-05,Centro Conv,400
+15,Cyber Security,07-12-2024,Online,850
+16,IoT Summit,18/08/2024,Sala 305,55
+17,Blockchain Rio,2024-09-01,Pavilhão,1200
+18,FrontEnd Conf,10-10-2024,Auditório A,250
+19,UX Writing,05/11/2024,Online,180
+20,Python Brasil,2024-12-15,Centro Conv,2500

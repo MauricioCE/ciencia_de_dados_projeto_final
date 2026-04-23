@@ -1,0 +1,21 @@
+Lote,Produto,Comprimento,Peso,Material
+L01,Barra A,2m,500g,Aço
+L02,Barra A,200cm,0.5kg,Aço
+L03,Chapa B,1.5m,1200g,Alumínio
+L04,Chapa B,1500mm,1.2kg,Alumínio
+L05,Cabo C,10m,2000g,Cobre
+L06,Cabo C,1000cm,2kg,Cobre
+L07,Tubo D,3m,4500g,PVC
+L08,Tubo D,3000mm,4.5kg,PVC
+L09,Viga E,6m,50kg,Ferro
+L10,Viga E,600cm,50000g,Ferro
+L11,Barra A,2.1m,510g,Aço
+L12,Chapa B,1.6m,1.3kg,Alumínio
+L13,Cabo C,1005cm,2010g,Cobre
+L14,Tubo D,3.1m,4600g,PVC
+L15,Viga E,605cm,51kg,Ferro
+L16,Barra A,1900mm,490g,Aço
+L17,Chapa B,1.4m,1100g,Alumínio
+L18,Cabo C,9m,1800g,Cobre
+L19,Tubo D,290cm,4.4kg,PVC
+L20,Viga E,5.9m,49.5kg,Ferro

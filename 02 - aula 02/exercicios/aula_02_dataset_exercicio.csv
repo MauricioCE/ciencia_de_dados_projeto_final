@@ -1,0 +1,21 @@
+ID_Estufa,Lote_Cafe,Umidade_Solo,Nivel_CO2,Status_Ambiente
+E_01,Bourbon Amarelo,45.2,410,Estável
+E_02,Geisha,,415,Alerta_Umidade
+E_03,Catuai Vermelho,48.5,,Estável
+E_04,Bourbon Amarelo,44.8,412,Estável
+E_05,Geisha,,418,Verificar_Sensor
+E_06,Catuai Vermelho,46.1,409,Estável
+E_07,Robusta Gold,42.3,,Monitoramento
+E_08,Robusta Gold,41.5,420,Estável
+E_09,Geisha,47.9,411,Estável
+E_10,Bourbon Amarelo,,,Alerta_Geral
+E_11,Catuai Vermelho,45.5,408,Estável
+E_12,Geisha,49.2,,Estável
+E_13,Robusta Gold,,414,Manutenção
+E_14,Bourbon Amarelo,44.0,412,Estável
+E_15,Catuai Vermelho,46.7,410,Estável
+E_16,Geisha,,416,Alerta_Umidade
+E_17,Robusta Gold,43.1,,Monitoramento
+E_18,Bourbon Amarelo,45.0,411,Estável
+E_19,Geisha,48.8,415,Estável
+E_20,Catuai Vermelho,,413,Verificar_Sensor
