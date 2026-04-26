@@ -17,8 +17,8 @@ Repositório com os códigos utilizados nas aulas de pré-processamento de dados
 **1. Clone o repositório**
 
 ```bash
-git clone https://github.com/MauricioCE/aula_pre_processamento_de_dados
-cd aula_pre_processamento_de_dados
+git clone https://github.com/MauricioCE/ciencia_de_dados_projeto_final
+cd ciencia_de_dados_projeto_final
 ```
 
 **2. Instale Jupyter para VS Code**
