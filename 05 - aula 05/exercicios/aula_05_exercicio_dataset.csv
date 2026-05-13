@@ -1,0 +1,12 @@
+ID_Produto,Descricao,Preco,Estoque,Categoria,Disponivel
+PRD001,Notebook Ultra X,4500.99,15,Eletrônicos,Sim
+PRD002,Mouse Gamer,199.9,120,Eletrônicos,1
+PRD004,Teclado Mecânico,350.5,0,1,Não
+PRD006,Mesa Digitalizadora,1250,8,3,False
+PRD008,Monitor 27pol,1799,12,1,1
+PRD009,Webcam HD,249.5,35,Periféricos,True
+PRD010,SSD 1TB,650,50,Armazenamento,Não
+PRD011,HD Externo 2TB,480.75,18,2,0
+PRD014,Carregador USB-C,75,90,4,1
+PRD015,Cabo HDMI,39.9,200,4,True
+PRD016,Hub USB,110.49,40,Acessórios,Não
