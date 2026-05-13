@@ -1,0 +1,17 @@
+Pedido,Produto,Altura,Peso
+P01,Caixa_A,0.5m,250g
+P02,Caixa_A,50cm,0.25kg
+P03,Caixa_B,1200mm,1.2kg
+P04,Caixa_B,1.2m,1200g
+P05,Caixa_C,80cm,900g
+P06,Caixa_C,0.8m,0.9kg
+P07,Caixa_D,1500mm,2kg
+P08,Caixa_D,150cm,2000g
+P09,Caixa_E,2m,3kg
+P10,Caixa_E,200cm,3000g
+P11,Caixa_F,450mm,0.4kg
+P12,Caixa_F,45cm,400g
+P13,Caixa_G,1.1m,1500g
+P14,Caixa_G,110cm,1.5kg
+P15,Caixa_H,300mm,0.35kg
+P16,Caixa_H,30cm,350g
