@@ -1,0 +1,16 @@
+ID_Pedido,Produto,Setor,Status
+1,Monitor 24,ELETRONICOS,Entregue
+2,Mouse Pad, eletrônicos ,Em Processamento
+3,Cadeira Office,Móveis,entregue
+4,Mesa Gamer, moveis ,Cancelado
+5,Teclado RGB,Eletronicos,ENTREGUE
+6,Fone Ouvido, ELETRÔNICOS ,Entregue
+7,Cadeira Ergonomica,Móveis,Entregue
+8,Webcam HD,eletronicos,Em Processamento
+9,Mesa de Centro,MOVEIS,Cancelado
+10,Cabo HDMI, Eletrônicos,entregue
+11,Estante, Móveis ,ENTREGUE
+12,Rato Sem Fios,eletronicos,Cancelado
+13,Sofá 3 Lugares,móveis,Entregue
+14,Monitor 27, ELETRONICOS,Em Processamento
+15,Armário,Moveis,entregue
